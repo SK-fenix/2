@@ -107,10 +107,12 @@ body {
 
 .cbox2-box-blueborder-text{
 	display: flex;
+	justify-content: center;
 	font-size: 6vw;
 	width: fit-content;
 	height: fit-content;
 	color: 	white;
+	
 }
 
 .character-card{
