@@ -279,13 +279,9 @@ body {
 	height: 30%;
 	padding-block: 4%;
 	font-size: 9vw;
-
 	background-color: #0374DF;
 	border-radius: 20px;
-	width: fit-content;
-	height: fit-content;
 	padding-inline: 10%;
-	padding-block: 1%;
 }
 .p3b2-designs-per{
 	display: flex;
