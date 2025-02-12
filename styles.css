@@ -107,12 +107,10 @@ body {
 
 .cbox2-box-blueborder-text{
 	display: flex;
-	justify-content: center;
 	font-size: 6vw;
 	width: fit-content;
 	height: fit-content;
 	color: 	white;
-	
 }
 
 .character-card{
@@ -272,16 +270,12 @@ body {
 	font-size: 3.5vw;
 }
 .p3b2-quantity{
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	color: 	white;
-	height: 30%;
-	padding-block: 4%;
+	color: white;
 	font-size: 9vw;
 	background-color: #0374DF;
 	border-radius: 20px;
 	padding-inline: 10%;
+	padding-block: 1%;
 }
 .p3b2-designs-per{
 	display: flex;
